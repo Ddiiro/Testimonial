@@ -1,0 +1,68 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.attribution { 
+    font-size: 15px; 
+    text-align:center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body{
+    font-size: 15px;
+    font-family: Barlow Semi Condensed;
+    margin-top: 20px;
+}
+
+#daniel {
+    background-color:hsl(263, 55%, 52%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#jonathan{
+    position: relative;
+    left: 10px;
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+#jeanette{
+    background-color: hsl(0, 0%, 81%);
+    color:black;
+    padding: 20px;
+    border-radius: 5px;
+}
+#patrick{
+    position: relative;
+    left: 10px;
+    background-color: hsl(219, 29%, 14%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#kira{
+    position: relative;
+    left: 20px;
+    background-color: hsl(0, 0%, 81%);
+    color:black;
+    padding: 20px;
+    font-size: 17px;
+    border-radius: 5px;
+}
+#upper{
+    margin-bottom: 10px;
+}
+
+.client-1{
+    display: flex;
+}
+.client-1 img{
+    border-radius: 50%;
+    padding-right: 5px;
+}
